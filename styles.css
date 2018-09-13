@@ -1,0 +1,40 @@
+<style>
+  .teal-text {
+    color: red; }
+</style>
+
+  h2 {
+    font-family: Lobster, monospace;
+  font-size: 1rem;
+}
+
+ul,ol,dl,p {
+  font-size: 1.5rem;
+}
+
+li, p {
+  line-height: 1.0;
+}
+h3 { color: purple;
+
+}
+
+
+  p {
+    font-size: 16px;
+    font-family: monospace;
+    border-color: blue;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 15%;
+  max-width: 500px;
+  padding: 10px;
+  background-color: white;
+ 
+  }
+ol {
+  list-style-type: roman;
+  list-style-position: inside;
+}
+
+body { color: teal;}
